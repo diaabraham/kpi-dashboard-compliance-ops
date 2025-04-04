@@ -1,16 +1,20 @@
 # Compliance & Labor KPI Dashboard
 
-A Python dashboard built to simulate real-time internal reporting for multi-location business ops. Tracks:
+A Python dashboard built to simulate real-time internal reporting for multi-location business ops & CFO-level compliance and labor cost analysis.
 <img width="664" alt="image" src="https://github.com/user-attachments/assets/797fbf3e-0d6f-4fc9-b662-e09231ba6f8a" />
 
+ Tracks:
 - Compliance cost per full-time equivalent (FTE)
-- Headcount variance
+- Headcount variance & cost forecasting (using mock data)
 - Audit score by region
 
-## Tech Stack
+Built for multi-branch simulation across States/Provinces.
+
+## Stack
 - Python (Pandas, Plotly)
 - Q4 2024 scenario simulation
 - Mock data (realistic structure)
+- Streamlit
 
 ## Use Case
 Originally developed as a simulation tool for compliance and HR cost optimization across Canadian and U.S. branches.
@@ -30,4 +34,8 @@ Originally developed as a simulation tool for compliance and HR cost optimizatio
 
 ## Author
 Abraham Diallo  
-Compliance Specialist | Data-Driven Ops | BRAIN Alpha Quant Contributor
+Compliance Specialist | Data-Driven Ops | WorldQuant BRAIN 
+[LinkedIn](https://www.linkedin.com/in/abrahamdia/)
+
+
+**Note:** This dashboard uses mock data generated in real-time for simulation purposes. Can be adapted to real datasets for production use.
