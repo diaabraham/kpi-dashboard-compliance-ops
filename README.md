@@ -17,7 +17,7 @@ Built for multi-branch simulation across States/Provinces.
 - Streamlit
 
 ## Use Case
-Originally developed as a simulation tool for compliance and HR cost optimization across Canadian and U.S. branches.
+Originally developed as a simulation tool for compliance and HR cost optimization across Canadian and U.S. branches of a retail franchise dealership group.
 
 ## Screenshots
 📊 KPI summary (cost per FTE)  
