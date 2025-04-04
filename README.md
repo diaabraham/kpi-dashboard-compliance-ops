@@ -19,10 +19,12 @@ Originally developed as a simulation tool for compliance and HR cost optimizatio
 📊 KPI summary (cost per FTE)  
 <img width="523" alt="image" src="https://github.com/user-attachments/assets/ea8a2c38-5da9-46d5-9935-6afcd140a664" />
 
-📈 Audit score variance 
+📈 Audit score variance
+
 <img width="522" alt="image" src="https://github.com/user-attachments/assets/49ddefbf-ea7e-4485-8c7c-dd1583e8ce8f" />
 
 🌍 Regional breakdown with plot visuals
+
 <img width="523" alt="image" src="https://github.com/user-attachments/assets/1a4040c2-5c57-411a-b59b-ee5a270b00ed" />
 
 
